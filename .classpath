@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" output="test/classes" path="test/src"/>
+	<classpathentry kind="con" path="com.google.appengine.eclipse.core.GAE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="jars/junit-4.8.jar"/>
+	<classpathentry kind="lib" path="jars/gdata-spreadsheet-meta-3.0.jar"/>
+	<classpathentry kind="lib" path="jars/google-collect-1.0-rc1.jar"/>
+	<classpathentry kind="lib" path="jars/jsr305.jar"/>
+	<classpathentry kind="lib" path="jars/gdata-client-1.0.jar"/>
+	<classpathentry kind="lib" path="jars/gdata-client-meta-1.0.jar"/>
+	<classpathentry kind="lib" path="jars/gdata-core-1.0.jar"/>
+	<classpathentry kind="lib" path="jars/gdata-spreadsheet-3.0.jar"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>
